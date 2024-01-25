@@ -1,0 +1,9 @@
+node_modules
+.expo
+.idea
+.vscode
+
+dist/
+
+# macOS
+.DS_Store
